@@ -1,0 +1,16 @@
+# Ignore Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore Unity Package Manager stuff
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
