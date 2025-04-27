@@ -17,3 +17,6 @@ Packages/packages-lock.json
 
 # Ignore PyTorch model files
 *.pt
+
+# Ignore Kaolin directory
+kaolin/
