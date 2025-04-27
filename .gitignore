@@ -14,3 +14,6 @@ Packages/packages-lock.json
 # Ignore IDE-specific files
 .vscode/
 .idea/
+
+# Ignore PyTorch model files
+*.pt
